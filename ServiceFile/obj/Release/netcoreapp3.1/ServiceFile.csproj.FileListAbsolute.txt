@@ -1,0 +1,15 @@
+D:\WebApi\completecrudjwt\ServiceFile\bin\Release\netcoreapp3.1\ServiceFile.deps.json
+D:\WebApi\completecrudjwt\ServiceFile\bin\Release\netcoreapp3.1\ServiceFile.dll
+D:\WebApi\completecrudjwt\ServiceFile\bin\Release\netcoreapp3.1\ServiceFile.pdb
+D:\WebApi\completecrudjwt\ServiceFile\bin\Release\netcoreapp3.1\DALfile.dll
+D:\WebApi\completecrudjwt\ServiceFile\bin\Release\netcoreapp3.1\MODELfile.dll
+D:\WebApi\completecrudjwt\ServiceFile\bin\Release\netcoreapp3.1\DALfile.pdb
+D:\WebApi\completecrudjwt\ServiceFile\bin\Release\netcoreapp3.1\MODELfile.pdb
+D:\WebApi\completecrudjwt\ServiceFile\obj\Release\netcoreapp3.1\ServiceFile.csproj.AssemblyReference.cache
+D:\WebApi\completecrudjwt\ServiceFile\obj\Release\netcoreapp3.1\ServiceFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebApi\completecrudjwt\ServiceFile\obj\Release\netcoreapp3.1\ServiceFile.AssemblyInfoInputs.cache
+D:\WebApi\completecrudjwt\ServiceFile\obj\Release\netcoreapp3.1\ServiceFile.AssemblyInfo.cs
+D:\WebApi\completecrudjwt\ServiceFile\obj\Release\netcoreapp3.1\ServiceFile.csproj.CoreCompileInputs.cache
+D:\WebApi\completecrudjwt\ServiceFile\obj\Release\netcoreapp3.1\ServiceFile.csproj.CopyComplete
+D:\WebApi\completecrudjwt\ServiceFile\obj\Release\netcoreapp3.1\ServiceFile.dll
+D:\WebApi\completecrudjwt\ServiceFile\obj\Release\netcoreapp3.1\ServiceFile.pdb

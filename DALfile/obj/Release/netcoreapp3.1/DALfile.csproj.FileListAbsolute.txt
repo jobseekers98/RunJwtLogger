@@ -1,0 +1,16 @@
+D:\WebApi\completecrudjwt\DALfile\bin\Release\netcoreapp3.1\DALfile.deps.json
+D:\WebApi\completecrudjwt\DALfile\bin\Release\netcoreapp3.1\DALfile.runtimeconfig.json
+D:\WebApi\completecrudjwt\DALfile\bin\Release\netcoreapp3.1\DALfile.runtimeconfig.dev.json
+D:\WebApi\completecrudjwt\DALfile\bin\Release\netcoreapp3.1\DALfile.dll
+D:\WebApi\completecrudjwt\DALfile\bin\Release\netcoreapp3.1\DALfile.pdb
+D:\WebApi\completecrudjwt\DALfile\bin\Release\netcoreapp3.1\MODELfile.dll
+D:\WebApi\completecrudjwt\DALfile\bin\Release\netcoreapp3.1\MODELfile.pdb
+D:\WebApi\completecrudjwt\DALfile\obj\Release\netcoreapp3.1\DALfile.csproj.AssemblyReference.cache
+D:\WebApi\completecrudjwt\DALfile\obj\Release\netcoreapp3.1\DALfile.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebApi\completecrudjwt\DALfile\obj\Release\netcoreapp3.1\DALfile.AssemblyInfoInputs.cache
+D:\WebApi\completecrudjwt\DALfile\obj\Release\netcoreapp3.1\DALfile.AssemblyInfo.cs
+D:\WebApi\completecrudjwt\DALfile\obj\Release\netcoreapp3.1\DALfile.csproj.CoreCompileInputs.cache
+D:\WebApi\completecrudjwt\DALfile\obj\Release\netcoreapp3.1\DALfile.csproj.CopyComplete
+D:\WebApi\completecrudjwt\DALfile\obj\Release\netcoreapp3.1\DALfile.dll
+D:\WebApi\completecrudjwt\DALfile\obj\Release\netcoreapp3.1\DALfile.pdb
+D:\WebApi\completecrudjwt\DALfile\obj\Release\netcoreapp3.1\DALfile.genruntimeconfig.cache

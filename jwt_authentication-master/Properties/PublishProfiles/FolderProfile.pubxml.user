@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\HostApi</_PublishTargetUrl>
+    <History>False|2022-02-09T13:59:56.9263817Z;False|2022-02-09T18:49:16.4547172+05:30;False|2022-02-09T18:32:05.8854469+05:30;False|2022-02-09T18:28:41.7063190+05:30;False|2022-02-09T18:22:41.1076703+05:30;False|2022-02-09T18:20:48.1688741+05:30;</History>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="Connect">
+      <Value>Data Source=CHETUIWK1023\SQL2019%3bInitial Catalog=JwtAuthDb%3bIntegrated Security=True</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

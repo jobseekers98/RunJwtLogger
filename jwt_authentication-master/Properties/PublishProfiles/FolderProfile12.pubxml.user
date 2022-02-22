@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\xyz</_PublishTargetUrl>
+    <History>False|2022-02-11T10:54:19.7666232Z;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="Connect">
+      <Value>Data Source=CHETUIWK1023\SQL2019%3bInitial Catalog=JwtAuthDb%3bIntegrated Security=True</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="DALfile.ApplicationContext">
+      <Value>Data Source=CHETUIWK1023\SQL2019%3bInitial Catalog=JwtAuthDb%3bIntegrated Security=True</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

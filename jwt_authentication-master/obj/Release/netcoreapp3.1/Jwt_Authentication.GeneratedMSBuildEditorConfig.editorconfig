@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Jwt_Authentication
+build_property.ProjectDir = D:\WebApi\completecrudjwt\jwt_authentication-master\

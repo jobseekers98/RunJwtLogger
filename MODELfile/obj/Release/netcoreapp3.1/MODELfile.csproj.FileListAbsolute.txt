@@ -1,0 +1,13 @@
+D:\WebApi\completecrudjwt\MODELfile\bin\Release\netcoreapp3.1\MODELfile.deps.json
+D:\WebApi\completecrudjwt\MODELfile\bin\Release\netcoreapp3.1\MODELfile.runtimeconfig.json
+D:\WebApi\completecrudjwt\MODELfile\bin\Release\netcoreapp3.1\MODELfile.runtimeconfig.dev.json
+D:\WebApi\completecrudjwt\MODELfile\bin\Release\netcoreapp3.1\MODELfile.dll
+D:\WebApi\completecrudjwt\MODELfile\bin\Release\netcoreapp3.1\MODELfile.pdb
+D:\WebApi\completecrudjwt\MODELfile\obj\Release\netcoreapp3.1\MODELfile.csproj.AssemblyReference.cache
+D:\WebApi\completecrudjwt\MODELfile\obj\Release\netcoreapp3.1\MODELfile.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebApi\completecrudjwt\MODELfile\obj\Release\netcoreapp3.1\MODELfile.AssemblyInfoInputs.cache
+D:\WebApi\completecrudjwt\MODELfile\obj\Release\netcoreapp3.1\MODELfile.AssemblyInfo.cs
+D:\WebApi\completecrudjwt\MODELfile\obj\Release\netcoreapp3.1\MODELfile.csproj.CoreCompileInputs.cache
+D:\WebApi\completecrudjwt\MODELfile\obj\Release\netcoreapp3.1\MODELfile.dll
+D:\WebApi\completecrudjwt\MODELfile\obj\Release\netcoreapp3.1\MODELfile.pdb
+D:\WebApi\completecrudjwt\MODELfile\obj\Release\netcoreapp3.1\MODELfile.genruntimeconfig.cache
